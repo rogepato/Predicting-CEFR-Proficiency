@@ -1,7 +1,3 @@
-# Projects
-
-Public final projects for *Intermediate Data Programming* (CSE 163). Additional projects can be submitted via pull request.
-
 Predict your CEFR level by answering a random prompt
 
 **Model trained on 10 features:**
@@ -33,3 +29,7 @@ Predict your CEFR level by answering a random prompt
 - spellchecker (misspelling checker)
 - language_tool_python (grammar checker)
 - multiprocessing (parallelism)
+
+**Predict Your Own Level in predictor.ipynb**
+When ran, you will be given a random prompt to answer.
+After answering, it will output your predicted CEFR level.
