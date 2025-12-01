@@ -1,0 +1,6 @@
+pandas
+numpy
+nltk
+language-tool-python
+pyspellchecker
+install-jdk
