@@ -2,9 +2,9 @@
 
 Public final projects for *Intermediate Data Programming* (CSE 163). Additional projects can be submitted via pull request.
 
-Predict your CEFR level by answering given questions
+Predict your CEFR level by answering a random prompt
 
-**Model trained on 9 features:**
+**Model trained on 10 features:**
 
 - Number of sentences
 - Average sentence length
@@ -13,10 +13,10 @@ Predict your CEFR level by answering given questions
 - Content word proportion (e.g. nouns, verbs, adjectives, adverbs)
 - Count of derivational morphology (e.g. -tion, -ment, -ness, -ity, -ive, etc.)
 - Grammatical error ratio
-- Misspelled words ratio
+- Misspelled word ratio
 - Word count
 - MTLD (Measure of Textual Lexical Diversity)
-- 
+
 **Parameters**
 - 55 parameters
 -    50 weights
